@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A learner and hustler..
 -----------------------
 
-I am still exploring and learning every field
+I am still exploring and learning every field under computer science.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning different languages and frameworks
