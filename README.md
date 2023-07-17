@@ -40,3 +40,6 @@ I am still exploring and learning every field under computer science.
 <a href="http://www.github.com/ManishaSwain8"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ManishaSwain8&bg_color=181824&color=14b8a6&line=6366f1&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ManishaSwain8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishaSwain8&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ManishaSwain8&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
