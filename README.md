@@ -12,7 +12,12 @@ I am still exploring and learning every field under computer science.
 * 🌍  I'm based in India
 * 🧠  I'm learning different languages and frameworks
 
-### Skills
+  
+## Pofile Visits
+
+  [![](https://visitcount.itsvg.in/api?id=ManishaSwain8&icon=5&color=6)](https://visitcount.itsvg.in)
+
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -28,10 +33,11 @@ I am still exploring and learning every field under computer science.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/ManishaSwain8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//manisha-swain-8a7a20209/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+
+## Badges
 
 <b>My GitHub Stats</b>
 
