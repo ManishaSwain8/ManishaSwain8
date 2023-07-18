@@ -12,11 +12,6 @@ I am still exploring and learning every field under computer science.
 * 🌍  I'm based in India
 * 🧠  I'm learning different languages and frameworks
 
-  
-## Pofile Visits
-
-  [![](https://visitcount.itsvg.in/api?id=ManishaSwain8&icon=5&color=6)](https://visitcount.itsvg.in)
-
 ## Skills
 
 <p align="left">
@@ -49,5 +44,9 @@ I am still exploring and learning every field under computer science.
 
 <a href="https://github.com/ManishaSwain8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishaSwain8&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+## Pofile Visits
+
+  [![](https://visitcount.itsvg.in/api?id=ManishaSwain8&icon=5&color=6)](https://visitcount.itsvg.in)
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ManishaSwain8&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
