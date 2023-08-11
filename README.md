@@ -40,6 +40,7 @@ I am still exploring and learning every field under computer science.
   [![](https://visitcount.itsvg.in/api?id=ManishaSwain8&icon=5&color=6)](https://visitcount.itsvg.in)
   
   <br/>
+  
 ## GitHub Trophies🏆
 
 ![](https://github-profile-trophy.vercel.app/?username=ManishaSwain8&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
@@ -48,6 +49,7 @@ I am still exploring and learning every field under computer science.
 
 
 <br/>
+
  <div align="center">
-<h1>✨Thankyou ffor visiting✨</h1>
+<h1>✨Thankyou for visiting✨</h1>
 </div>
