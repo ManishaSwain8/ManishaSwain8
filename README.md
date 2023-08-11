@@ -39,6 +39,7 @@ I am still exploring and learning every field under computer science.
   
   <br/>
 ## GitHub Trophies🏆
+
 ![](https://github-profile-trophy.vercel.app/?username=ManishaSwain8&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 [![ManishaSwain8's GitHub | Languages Over Time](https://stats.quine.sh/ManishaSwain8/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ManishaSwain8)
