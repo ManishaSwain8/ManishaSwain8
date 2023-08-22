@@ -1,4 +1,4 @@
-<img src="https://cdn.rit.edu/images/program/2020-06/ai-banner.jpg"  alt="C" />
+<img src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg"  alt="C" />
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Manisha Swain
