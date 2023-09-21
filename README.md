@@ -1,8 +1,12 @@
 <img src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg"  alt="C" />
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Manisha Swain
-=====================================================================================================================================
+<h1>Hi !<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="72" height="72">
+</picture>my name is Manisha Swain</h1>
+</br>
+</br>
 
 A learner and hustler..
 <br/>
