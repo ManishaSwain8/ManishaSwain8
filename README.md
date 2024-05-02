@@ -7,9 +7,8 @@
 </br>
 </br>
 
-A learner and hustler..
-<br/>
-I am still exploring and learning every field under computer science.
+
+A budding explorer and hustler in the vast universe of computer science! 🚀 Continuously diving into new realms, absorbing knowledge <br/> like a sponge, and hustling hard to master every facet. 💻📚
 
 * <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="28" height="28"></picture>  I'm based in India
 * <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="28" height="28"></picture>  I'm learning different languages and frameworks
